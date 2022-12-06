@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/vanila-redux/static/js/main.05f80998.js",
+    "main.js": "/vanila-redux/static/js/main.c687d252.js",
     "index.html": "/vanila-redux/index.html",
-    "main.05f80998.js.map": "/vanila-redux/static/js/main.05f80998.js.map"
+    "main.c687d252.js.map": "/vanila-redux/static/js/main.c687d252.js.map"
   },
   "entrypoints": [
-    "static/js/main.05f80998.js"
+    "static/js/main.c687d252.js"
   ]
 }
